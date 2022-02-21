@@ -10,6 +10,8 @@ Hyperthyroidism (overactive thyroid) occurs when your thyroid gland produces too
 
 Nairobi Hospital conducted a clinical camp to test for hypothyroidism. It is this data that will be used to create machine learning models that will help predict if a patient's symptoms indicate they suffer from hyperthyroidism.
 
+The data can be found [here](http://bit.ly/hypothyroid_data)
+
 ## d) Experimental Design
 1. Exploratory Data Analysis
 2. Data Cleaning
